@@ -1,0 +1,1 @@
+If this was to actually function, I would run the function ticTacToe in the console and it would prompt the players for their moves.
